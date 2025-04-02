@@ -1,14 +1,15 @@
-### <li> Facial Emotion / Expression Recognition (FER) </li> 
-    ── Preprocessing
-        │   fer_classdistribution.py
-        │   fer_datapreprocessing.py
-    ── Model
-        │   fer_model.py
-    ── Full Code 
-        | FER_FullNotebook.ipynb
-        | fer_complete_code.py
-    ── data.tar.xz
+This repository contains multiple **computer vision** projects, including **Facial Emotion Recognition (FER)** and **Pupil/Iris Detection**.
 
-### <li> Pupil and Iris Detection </li>
-  ── iris_pupil_detection.py
-       
+## Projects Included
+
+### 1️⃣ Facial Emotion / Expression Recognition (FER)
+A deep learning model for recognizing emotions from facial expressions in images.
+
+### 2️⃣ Pupil and Iris Detection
+A computer vision model to detect the pupil and iris in eye images.
+
+## Installation & Usage
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/facial-emotion-iris-detection.git
