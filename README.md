@@ -15,14 +15,16 @@ A computer vision model to detect the pupil and iris in eye images.
 git clone https://github.com/yourusername/facial-emotion-iris-detection.git
 ```
   
-2. **Run the Jupyter Notebooks**:
+2. **Run the Facial Emotion Recognition Model**:
 
 ```bash
-jupyter notebook
+python Model/fer_model.py
 ```
-Open the corresponding .ipynb file: 
-- FER_FullNotebook.ipynb (for Facial Emotion Recognition)  
-- iris_pupil_notebook.ipynb (for Pupil/Iris Detection)
 
+3. **Run the Iris/Pupil Detection Model**:
+   
+```bash
+python iris_pupil_detection.py
+```
 
 
